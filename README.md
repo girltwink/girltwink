@@ -1,4 +1,9 @@
-### Hi there 👋
+### hewwoo
+
+im a silly self proclaimed girltwink. im bad at programming and mostly just do for hobbies and making things i want to exist.
+
+i'll get better :3
+
 
 <!--
 **girltwink/girltwink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
