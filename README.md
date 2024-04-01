@@ -2,8 +2,7 @@
 
 im a silly self proclaimed girltwink. im bad at programming and mostly just do for hobbies and making things i want to exist.
 
-i'll get better :3
-
+I've made empty repos as ideas that I may or may not commit to later. They're usually under the Unlicense because if you like the idea, run with it idc
 
 <!--
 **girltwink/girltwink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
